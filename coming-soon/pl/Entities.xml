@@ -2,51 +2,51 @@
 <Entities>
     <Agents>
         <KioskWorker>
-            <name>Retail Worker</name>
-            <description>Serves products to customers at kiosk stands and stores.</description>
+            <name>Sprzedawca</name>
+            <description>Sprzedaje produkty w sklepach i stoiskach.</description>
         </KioskWorker>
         <Chef>
-            <name>Chef</name>
-            <description>Cooks food in the kitchen and delivers it to services that sell food.</description>
+            <name>Kucharz</name>
+            <description>Przygotowuje jedzenie w kuchni i dostarcza do miejsc gdzie jest sprzedawane.</description>
         </Chef>
         <CFO>
             <name>CFO</name>
-            <description>Chief Financial Officer - Allows you to research finance related upgrades and abilities such as bank loans &amp; improved financial reporting.</description>
+            <description>Szef Finansów - Pozwala na zbadanie ulepszeń związanych z finansami, takich jak pożyczki czy rozbudowane raporty finansowe.</description>
         </CFO>
         <COO>
             <name>COO</name>
-            <description>Chief Operations Officer - Allows you to research operations and logistics related upgrades and tools.</description>
+            <description>Szef Operacji - Pozwala na zbadanie ulepszeń operacyjnych oraz logistycznych.</description>
         </COO>
         <CTO>
             <name>CTO</name>
-            <description>Chief Technology Officer - Allows you to research technology related upgrades and provides access to objects such as public address systems &amp; other improved technological objects.</description>
+            <description>Szef Technologii - Pozwala na zbadanie ulepszeń związanych z technologią i zapewnia dostęp do obiektów takich jak system komunikacji publicznej i innych.</description>
         </CTO>
         <FinanceVP>
             <name>Finance VP</name>
-            <description>Vice President of Finance - Allows you to 'research' tax related improvements and can help keep wheels greased.</description>
+            <description>Wiceprezes ds. Finansów - Pozwala na zbadanie ulepszeń związanych z podatkami.</description>
         </FinanceVP>
         <FlightAttendant>
-            <name>Flight Attendant</name>
+            <name>Stewardesa</name>
             <description></description>
         </FlightAttendant>
         <FoodWorker>
-            <name>Food Worker</name>
-            <description>Takes and prepares orders in Retail zones.</description>
+            <name>Kelner</name>
+            <description>Zbiera i przygotowuje zamówienia w kawiarniach i restauracjach.</description>
         </FoodWorker>
         <Foreman>
-            <name>Foreman</name>
-            <description>Construction Foreman - Allows you to research construction related upgrades &amp; abilities, such as intersecting runways and more.</description>
+            <name>Kierownik</name>
+            <description>Kierownik Budowy - Pozwala na zbadanie ulepszeń związanych z konstrukcją, takich jak przecinające się pasy startowe i innych.</description>
         </Foreman>
         <Janitor>
-            <name>Janitor</name>
-            <description>Cleans up trash around the airport, schedules garbage pickup to avoid getting shut down.</description>
+            <name>Woźny</name>
+            <description>Pilnuje czystości na lotnisku.</description>
         </Janitor>
         <Laborer>
-            <name>Laborer</name>
+            <name>Robotnik</name>
             <description></description>
         </Laborer>
         <Passenger>
-            <name>Passenger</name>
+            <name>Pasażer</name>
             <description></description>
         </Passenger>
         <Pilot>
@@ -58,133 +58,133 @@
             <description>Aircraft STUCK?  Ramp agent to the rescue!  They help "un-stick" all the aircraft on the ground for a small one-time fee.  When their work is done, they'll leave.   Also known as the "Golden Towbar Award".</description>
         </RampAgent>
         <Security>
-            <name>Security</name>
-            <description>Clears bags and passengers as they make it through the airport.</description>
+            <name>Ochroniarz</name>
+            <description>Sprawdza bagaże i pasażerów poruszających się po lotnisku.</description>
         </Security>
         <Staff>
-            <name>Staff</name>
-            <description>Handles customer service positions, including operating desks.</description>
+            <name>Pracownik</name>
+            <description>Zajmuje się obsługą klienta.</description>
         </Staff>
         <VendorWorker>
             <name>VendorWorker</name>
             <description></description>
         </VendorWorker>
         <Workman>
-            <name>Workman</name>
-            <description>Handles all construction related tasks, moves unneeded boxes to storage, and repairs objects around the airport. They can deliver luggage too if you don't have a luggage system!</description>
+            <name>Robotnik</name>
+            <description>Zajmuje się wszystkimi zadaniami związanymi z konstrukcją, przenosi niepotrzebne pudełka na magazyn oraz naprawia obiekty na lotnisku. Mogą także dostarczać bagaże jeśli nie masz systemu bagażowego.</description>
         </Workman>
         <BaggageCar>
-            <name>Baggage Car</name>
+            <name>Ciągnik Bagażowy</name>
             <description><!-- not used --></description>
         </BaggageCar>
         <BaggageCarTest>
-            <name>Baggage Car Test</name>
+            <name>Ciągnik Bagażowy Test</name>
             <description><!-- not used --></description>
         </BaggageCarTest>
         <DeliveryTruck>
-            <name>Delivery Truck</name>
+            <name>Samochód Zaopatrzenia</name>
             <description><!-- not used --></description>
         </DeliveryTruck>
         <FuelDeliveryTruck>
-            <name>Fuel Delivery Truck</name>
+            <name>Cysterna</name>
             <description><!-- not used --></description>
         </FuelDeliveryTruck>
         <FuelTruck>
-            <name>Fuel Truck</name>
+            <name>Cysterna</name>
             <description><!-- not used --></description>
         </FuelTruck>
         <GarbageTruck>
-            <name>Garbage Truck</name>
+            <name>Śmieciarka</name>
             <description><!-- not used --></description>
         </GarbageTruck>
         <GolfCart>
-            <name>Golf Cart</name>
+            <name>Wózek Golfowy</name>
             <description><!-- not used --></description>
         </GolfCart>
         <PassengerBus>
-            <name>Passenger Bus</name>
+            <name>Autobus</name>
             <description><!-- not used --></description>
         </PassengerBus>
         <PassengerTaxi>
-            <name>Passenger Taxi</name>
+            <name>Taksówka</name>
             <description><!-- not used --></description>
         </PassengerTaxi>
         <PassengerVehicle>
-            <name>Passenger Vehicle</name>
+            <name>Samochód osobowy</name>
             <description><!-- not used --></description>
         </PassengerVehicle>
         <SupplyTruck>
-            <name>Supply Truck</name>
+            <name>Samochód Zaopatrzenia</name>
             <description><!-- not used --></description>
         </SupplyTruck>
     </Agents>
     <Objects>
         <generic>
-            <AircraftGate>Aircraft Gate</AircraftGate>
-            <ConveyorTransition>Conveyor Transition</ConveyorTransition>
-            <Stairs>Stairway</Stairs>
-            <Escalator>Escalator</Escalator>
+            <AircraftGate>Bramka</AircraftGate>
+            <ConveyorTransition>Przejście Przenośnika</ConveyorTransition>
+            <Stairs>Schody</Stairs>
+            <Escalator>Ruchome Schody</Escalator>
         </generic>
         
         <!-- non-placeable -->
         <DirtyFloor>
-            <name>Dirty Floor</name>
+            <name>Brudna Podłoga</name>
         </DirtyFloor>
         <TrashBag>
-            <name>Trash Bag</name>
+            <name>Worek na Śmieci</name>
         </TrashBag>
         
         
         <!-- runway upgrades -->
         <RunwayApproachLights>
-            <name>Runway Approach Lights</name>
+            <name>Światła Podejścia</name>
             <description></description>
         </RunwayApproachLights>
         <RunwayILS>
-            <name>Runway ILS</name>
-            <description>Instrument Landing System allows larger airliners to conduct a precision instrument approach.  Maximum crosswind tolerance is increased from 12 to 20 Kt. This means fewer weather delays &amp; a lower risk of weather-related incidents.  It'll also help you attract the 'Big Boy' airlines.</description>
+            <name>ILS</name>
+            <description>Instrumentalny System Lądowania pozwala samolotom przeprowadzić precyzyjne podejścia z wykorzystaniem instrumentów. Limit dopuszczalnego wiatru bocznego zostanie zmieniony z 12 do 20 węzłów. To oznacza mniej opóźnień związanych z pogodą oraz mniejsze ryzyko incydentów związanych z pogodą. Dodatkowo pomaga zainteresować duże linie lotnicze.</description>
         </RunwayILS>
         <RunwayLights>
-            <name>Runway Lights</name>
-            <description>Runway lights allow for night operations at your airport.</description>
+            <name>Oświetlenie Pasa Startowego</name>
+            <description>Światła na pasie startowym pozwalają lotnisku działać w nocy.</description>
         </RunwayLights>
         <RunwayPAPI>
-            <name>Runway PAPI</name>
-            <description>Precision Approach Path Indicator provides a visual indicator to pilots of their approach angle, resulting in increased safety. Maximum crosswind tolerance is also increased from 12 to 15 Kt.</description>
+            <name>Światła PAPI</name>
+            <description>Wizualny indykator kąta podejścia dla pilota, zwiększa bezpieczeństwo i pozwala lądować przy wietrze bocznym do 15 węzłów (zamiast 12).</description>
         </RunwayPAPI>
         <Windsock>
-            <name>Windsock</name>
+            <name>Rękaw Wiatrowy</name>
             <description></description>
         </Windsock>
         
         
         <!-- gate upgrades -->
         <FuelPort>
-	        <name>Fuel Port</name>
-	        <description>An output port that can be placed on gates and connected to underground pipelines to enable faster refueling services.</description>
+            <name>Złącze Paliwowe</name>
+            <description>Złącze, które może być umieszczone na bramce i połączone do podziemnych rur, pozwala na szybsze tankowanie samolotów.</description>
         </FuelPort>
 
-	    <BoosterPanel>
-	        <name>Booster Panel</name>
-	        <description>Provides additional sorting capacity to your Baggage Hubs so that they are able to sort more bags per minute.  Limit 2 per Baggage Hub.</description>
+        <BoosterPanel>
+            <name>Ulepszenie Przenośnika</name>
+            <description>Pozwala przyśpieszyć sortowanie w Koncentratorach Bagaży, dzięki temu mogą obsłużyć więcej bagaży na minutę. Limit: 2 na koncentrator.</description>
         </BoosterPanel>
 
         
         <AircraftGateSmall>
-            <name>Aircraft Gate (S)</name>
-            <description>Allows aircraft to load and unload passengers.</description>
+            <name>Bramka (S)</name>
+            <description>Pozwala na załadowanie i rozładowanie samolotu.</description>
         </AircraftGateSmall>
         <AircraftGate>
-            <name>Aircraft Gate (L)</name>
-            <description>Allows aircraft to load and unload passengers.</description>
+            <name>Bramka (L)</name>
+            <description>Pozwala na załadowanie i rozładowanie samolotu.</description>
         </AircraftGate>
         <AircraftGateLarge>
-            <name>Aircraft Gate (XL)</name>
-            <description>Allows aircraft to load and unload passengers.</description>
+            <name>Bramka (XL)</name>
+            <description>Pozwala na załadowanie i rozładowanie samolotu.</description>
         </AircraftGateLarge>
         <ApparelStand>
-            <name>Apparel Stand</name>
-            <description>Helps keep passengers entertained while earning you $5 per transaction in the process. Requires a scheduled retail worker.</description>
+            <name>Stoisko Ubraniowe</name>
+            <description>Helps keep passengers entertained while earning you $5 per transaction in the process.</description>
         </ApparelStand>
         <ATCTower>
             <name>ATC Tower</name>
